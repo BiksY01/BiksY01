@@ -1,20 +1,24 @@
-### hey, i'm biksy 👋
+### hey, i'm biksy
 
-web + linux + the security side of both. i build small, over-engineered sites, self-host more
-than i should, and lately i've been deep in network-privacy tooling.
+i work across the parts of the stack most people avoid — low-level linux, security tooling, and
+web that actually moves. i like building the thing, understanding it all the way down, and being
+honest about what it does and doesn't do.
 
-- **web** — single-file sites with real motion (css 3d + physics, no framework). [lukasz-aep.pages.dev](https://lukasz-aep.pages.dev)
-- **linux / systems** — gentoo daily driver, openrc (no systemd), tuned by hand. i write down what actually moved the needle.
-- **network privacy** — wireguard multihop, encrypted dns, kill-switches. built my own toolkit for it.
-- **security** — learning it properly: my own lab, ctfs, the operational-security side especially.
-- **homelab** — always-on server, game servers, sync, monitoring. all self-hosted.
+right now i'm building **[veil](https://github.com/BiksY01/veil)** — a desktop app that hardens a
+linux machine against surveillance for people who can't do it by hand.
 
-**stack** — vanilla js/css · linux · bash · cloudflare · wireguard/nftables · react+vite when a project earns it
+**what i work on**
+- **security / privacy** — anti-surveillance tooling, opsec, my own lab + ctfs
+- **linux / systems** — gentoo daily driver, openrc (no systemd), kernel + build tuning by hand
+- **web + 3d** — single-file sites with real motion: three.js, css physics, no framework
+- **self-hosting** — an always-on server, game servers, sync, monitoring — all mine
 
-**a few things i've made**
-- [linux-network-privacy](https://github.com/BiksY01/linux-network-privacy) — mullvad multihop + encrypted dns + hardened browser, the setup i actually run
-- [gentoo-tuning](https://github.com/BiksY01/gentoo-tuning) — openrc-native desktop tuning, real configs included
-- [lukasz-aep](https://github.com/BiksY01/lukasz-aep) — my site. frutiger aero, a working css radio, live game-server status
-- [operational-security-notes](https://github.com/BiksY01/operational-security-notes) — opsec methods, written down
+**featured**
+- **[veil](https://github.com/BiksY01/veil)** — linux anti-surveillance, made simple. reads your posture, explains every gap, fixes it with your permission *(in development)*
+- **[gentoo-tuning](https://github.com/BiksY01/gentoo-tuning)** — openrc-native desktop tuning, real configs included
+- **[lukasz-aep](https://github.com/BiksY01/lukasz-aep)** — my site: frutiger-aero, a working css radio, live game-server status
+- **[operational-security-notes](https://github.com/BiksY01/operational-security-notes)** — opsec methods, written down
+
+**stack** — python · bash · vanilla js/css · three.js · linux · wireguard / nftables · cloudflare
 
 more on tiktok [@lukasz.aep](https://www.tiktok.com/@lukasz.aep)
